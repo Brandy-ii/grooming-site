@@ -11,4 +11,8 @@ body {
 
 .dg-box{
     background-color: rgb(46, 65, 42);
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    width: 50%;
+    margin: 10px;
 }

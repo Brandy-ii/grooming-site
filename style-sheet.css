@@ -14,5 +14,17 @@ body {
     padding-left: 2.5%;
     padding-right: 2.5%;
     width: 50%;
+    height: 700px;
     margin: 10px;
+}
+
+@media (max-width: 600px) {
+    .main-content {
+        display: block;
+    }
+
+    .dg-box {
+        width: 90%;
+        height: 700px;
+    }
 }
